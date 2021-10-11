@@ -1,0 +1,17 @@
+# jekyll
+_site/
+.jekyll-cache/
+vendor/
+docker/
+test/
+tools/
+docs/
+screenshots/
+
+
+Gemfile.lock
+Dockerfile.dev
+CHANGELOG.md
+HOW_TO_RELEASE.md
+screenshot.jpg
+*.gemspec
