@@ -26,4 +26,3 @@ titles:
 key: page-about
 ---
 
-学习记录
