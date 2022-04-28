@@ -5,6 +5,16 @@ tags: leetcode
 
 ## Leetcode 刷题总结
 
+### 33 搜索旋转排序数组
+
+[题目链接](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)
+
+有序数组，查找，emmm，那就二分？
+
+对于旋转点 `k` 来说，旋转点的左侧，右侧仍然是有序的，只是整体可能是无序的。
+所以在二分的过程中，只需要判断当前时处于 `k` 的左侧还是 `k` 的右侧，判断的方法 `nums[mid] < nums[n-1]`。
+确认了在 `k` 的左侧或者时右侧后，然后再判断目标是处于 `[0, mid-1]` 还是 `[mid+1, n-1]`，根据条件修改相应的边界条件即可。
+
 ### 215 数组中的第 K 大的元素
 
 [题目链接](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)

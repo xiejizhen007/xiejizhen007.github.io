@@ -68,7 +68,8 @@ gem install jekyll bundler
 
 ### 第四步：使用 jekyll && 更换主题
 
-个人认为使用 `jekyll` 只是为了新增网页内容，美化主题。没必要花太多的时间去美化网页，相比之下应该花更多的时间去撰写博客。所以在这里推荐直接使用别人写好的主题，这里提供 `jekyll` 的[主题链接](http://jekyllthemes.org/)。
+个人认为使用 `jekyll` 只是为了新增网页内容，美化主题。没必要花太多的时间去美化网页，相比之下应该花更多的时间去撰写博客。
+所以在这里推荐直接使用别人写好的主题，这里提供 `jekyll` 的[主题链接](http://jekyllthemes.org/)。
 
 本人使用的主题是[这个](https://tianqi.name/jekyll-TeXt-theme/test/)，下面以这个为例简单介绍一下。
 

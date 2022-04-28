@@ -58,10 +58,10 @@ author:
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: user_name/repo_name
-repository_tree: master
-# repository: xiejizhen007/games101
+# repository: user_name/repo_name
 # repository_tree: master
+repository: xiejizhen007/toyScreeps
+repository_tree: master
 
 
 ## => Paths

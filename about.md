@@ -1,5 +1,6 @@
 ---
 layout: article
+title: WHO AM I?
 titles:
   # @start locale config
   en      : &EN       About
@@ -26,3 +27,6 @@ titles:
 key: page-about
 ---
 
+个人博客，记录我在学习过程中遇到的问题，或者总结等
+
+bug 制造者
